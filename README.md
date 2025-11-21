@@ -10,7 +10,6 @@
   - <a href="#explicação-das-ias">Explicação das IAs</a>
   - <a href="#deploy">Deploy</a>
   - <a href="#aprendizados">Aprendizados</a>
-  - <a href="#olá-eu-sou-o-lucas-👋">Sobre Mim</a>
 
 ## Contextualização do Projeto Airbnb
 O objetivo deste projeto é determinar o preço de diária de imóveis com base em suas características específicas. O projeto visa ajudar pessoas do Rio de Janeiro e não tem foco em impresas imobiliárias, mas sim em pessoas normais que ou querem disponibilizar um imóvel no Airbnb ou pessoas que querem alugar um imóvel por alguns dias e querem verificar se o valor cobrado está dentro do normal. Este projeto visa facilitar a vida de pessoas que desejam alugar ou disponibilizar imóveis de maneira rápida e eficiente, proporcionando uma avaliação precisa dos valores de diárias.
@@ -137,11 +136,3 @@ Imagens para mostrar como ficou o resultado final:
 
 ## Aprendizados
 A criação deste modelo de inteligência artificial foi uma experiência extremamente gratificante e divertida. Ao aplicar meus conhecimentos em Python e explorar diversas bibliotecas, pude enfrentar desafios significativos, sendo a análise exploratória de dados um dos momentos mais complexos. Esse processo demandou tempo, atenção e paciência, pois compreendi a importância desses dados para o treinamento das IAs. Mesmo diante das dificuldades, não desisti. Este é meu primeiro projeto, e sinto uma grande evolução. Estou ansioso para os próximos desafios que enfrentarei e para continuar aprendendo.
-
-# Olá, eu sou o Lucas! 👋
-Aos 19 anos, trilho meu caminho na Ciência de Dados com paixão pela programação. Com habilidades avançadas em Python e conhecimento intermediário em SQL, enfrento desafios com entusiasmo, especialmente na criação de inteligência artificial. Embora meu inglês seja inicial, estou dedicado aos estudos para aprimorá-lo. Estou aqui para aprender, crescer e deixar minha marca na interseção entre dados e inovação.
-
-## Links para me contatar 🔗 
-[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasSantos875478)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-454584285/)
-[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=)](https://www.instagram.com/lucassantos875478/)
